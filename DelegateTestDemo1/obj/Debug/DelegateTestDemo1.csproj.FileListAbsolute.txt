@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\DelegateTestDemo1\bin\Debug\DelegateTestDemo1.exe.config
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\DelegateTestDemo1\bin\Debug\DelegateTestDemo1.exe
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\DelegateTestDemo1\bin\Debug\DelegateTestDemo1.pdb
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\DelegateTestDemo1\obj\Debug\DelegateTestDemo1.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\DelegateTestDemo1\obj\Debug\DelegateTestDemo1.exe
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\DelegateTestDemo1\obj\Debug\DelegateTestDemo1.pdb

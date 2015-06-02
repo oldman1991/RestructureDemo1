@@ -1,0 +1,12 @@
+c:\users\lipeng\documents\visual studio 2012\Projects\RestructureDemo1\RestructureDemo1\bin\Debug\RestructureDemo1.exe.config
+c:\users\lipeng\documents\visual studio 2012\Projects\RestructureDemo1\RestructureDemo1\obj\Debug\RestructureDemo1.csprojResolveAssemblyReference.cache
+c:\users\lipeng\documents\visual studio 2012\Projects\RestructureDemo1\RestructureDemo1\bin\Debug\RestructureDemo1.exe
+c:\users\lipeng\documents\visual studio 2012\Projects\RestructureDemo1\RestructureDemo1\bin\Debug\RestructureDemo1.pdb
+c:\users\lipeng\documents\visual studio 2012\Projects\RestructureDemo1\RestructureDemo1\obj\Debug\RestructureDemo1.exe
+c:\users\lipeng\documents\visual studio 2012\Projects\RestructureDemo1\RestructureDemo1\obj\Debug\RestructureDemo1.pdb
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\RestructureDemo1\bin\Debug\RestructureDemo1.exe.config
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\RestructureDemo1\obj\Debug\RestructureDemo1.exe
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\RestructureDemo1\obj\Debug\RestructureDemo1.pdb
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\RestructureDemo1\bin\Debug\RestructureDemo1.exe
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\RestructureDemo1\bin\Debug\RestructureDemo1.pdb
+C:\Users\dell\Desktop\RestructureDemo1\RestructureDemo1\RestructureDemo1\obj\Debug\RestructureDemo1.csprojResolveAssemblyReference.cache
