@@ -10,6 +10,7 @@ namespace RestructureDemo1
     {
         static void Main(string[] args)
         {
+            int a = 1;
             Customer customer=new Customer();
             customer.Name = "peng.li";
             List<Rental> listRentals=new List<Rental>();
